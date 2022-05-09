@@ -9,3 +9,7 @@ https://github.com/LorianAtashi01/altV-better-notify?ref=reactjsexample.com
 
 Dashboard Templates (Admin)
 https://github.com/app-generator/react-berry-dashboard
+
+
+HTML Materail
+https://github.com/gurayyarar/AdminBSBMaterialDesign
