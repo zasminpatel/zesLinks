@@ -7,3 +7,6 @@ https://github.com/QuestPDF/QuestPDF-ExampleInvoice
 
 POS Print
 https://medium.com/@dmitrysikorsky/how-to-print-from-a-web-page-to-a-pos-printer-8d5b39fc975b
+
+NetPad - an electron.net application 
+https://github.com/tareqimbasher/NetPad
